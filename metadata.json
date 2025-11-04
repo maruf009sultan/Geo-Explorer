@@ -1,0 +1,5 @@
+{
+  "name": "Geo Explorer",
+  "description": "An interactive chat application that uses Gemini with Google Search and Maps grounding to find information about places. Upload an image, provide a description, and get detailed responses with a dynamic map view.",
+  "requestFramePermissions": []
+}

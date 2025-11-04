@@ -199,7 +199,7 @@ Geo Explorer is an open-source project, and we welcome contributions.
 ### Running Locally
 1.  **Clone:** `git clone https://github.com/your-repo/geo-explorer.git`
 2.  **Install:** `npm install`
-3.  **API Key:** Set up your `.env` file with your Google AI API key.
+3.  **API Key:** Set up your `.env` file with your Google AI API key  GEMINI_API_KEY.
 4.  **Run:** `npm run dev`
 
 ### How to Contribute
